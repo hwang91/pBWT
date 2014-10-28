@@ -1,4 +1,4 @@
-BWTCP
+pBWT
 =====
 
 Efficiently construct BWT for large collection of genomic reads
